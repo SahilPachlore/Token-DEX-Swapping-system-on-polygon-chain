@@ -1,5 +1,5 @@
-const serverUrl = "https://g7wgt8gx5rde.usemoralis.com:2053/server";
-const appId = "Yq4HRkwJN7xPS4bu2iLGaClywRss9KZy1BLLoJQa"; 
+const serverUrl = "server_url";
+const appId = "app_id"; 
 
 
 let currentTrade = {};
